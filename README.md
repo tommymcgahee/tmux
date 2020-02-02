@@ -1,2 +1,1 @@
-# tmux
-tmux config files
+Configuration file(s) for tmux.
